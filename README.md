@@ -1,4 +1,5 @@
 # STHITI: Enhancing Lives with Adaptive Technology
+### STHITI: PDA (Posture Detection Aid)
 
 Welcome to the STHITI project repository! The primary objective of the Devices for Uniquely Able People (D.U.A.) initiative is to enhance the quality of life for individuals with unique abilities, including physical deformities, mental illnesses, or terminal illnesses. The STHITI project focuses on improving posture and spinal alignment using adaptive technology.
 
